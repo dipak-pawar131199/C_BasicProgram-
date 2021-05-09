@@ -3,5 +3,5 @@
  main()
  {
     printf(" hello friends ");
-    return
+    return;
  }
